@@ -1,50 +1,73 @@
-# Welcome to your Expo app 👋
+# ☕ My Coffee App — Built with Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+*Cross-platform mobile app built using React Native and Expo. Features modern UI, smooth navigation with expo-router, custom theming, and static asset integration.*
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Getting Started
 
-   ```bash
-   npm install
-   ```
+### *1. Install dependencies*
+npm install
 
-2. Start the app
+### *2. Start the development server*
+npx expo start
 
-   ```bash
-   npx expo start
-   ```
+*You can run the app using:*
+- *Expo Go (on Android/iOS)*
+- *Android Emulator*
+- *iOS Simulator*
+- *Development Build*
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📁 Project Structure
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+*This project uses file-based routing powered by `expo-router`.*
 
-## Get a fresh project
+*Key folders:*
+- **app/** – Screens and routes
+- **assets/** – Icons, splash screens, images
+- **constants/** – Static menu items, image references, etc.
 
-When you're ready, run:
+---
 
-```bash
+## 🧼 Reset the Project
+
+*To start with a blank app directory:*
+
 npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+*This will move starter code to `app-example/` and create a fresh `app/` folder.*
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📚 Learn More
 
-## Join the community
+*Helpful links:*
+- [Expo Documentation](https://docs.expo.dev/)
+- [Expo Router Docs](https://expo.github.io/router/docs)
+- [Learn Expo Tutorial](https://docs.expo.dev/tutorial/introduction/)
+- [Expo Discord](https://chat.expo.dev)
+- [Expo GitHub](https://github.com/expo/expo)
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🛠️ Built With
+
+*Technologies used:*
+- *Expo*
+- *React Native*
+- *expo-router*
+- *FlatList*
+- *JavaScript (ES6+)*
+
+---
+
+## 🤝 Contributing
+
+*Pull requests and suggestions are welcome!*
+
+*Fork the repo and submit a PR to contribute.*
+
+---
